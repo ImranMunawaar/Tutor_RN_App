@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "599219003922",
+    "firebase_url": "https://tutor-3116e-default-rtdb.firebaseio.com",
+    "project_id": "tutor-3116e",
+    "storage_bucket": "tutor-3116e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599219003922:android:b0f729a79c66bb9c736ecb",
+        "android_client_info": {
+          "package_name": "com.tutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599219003922-tlafmoo12bii3r598e6n0fclug9t1ea6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutor",
+            "certificate_hash": "e913daba13ad7f7a4e9b43ae6b1f313f9d30e58c"
+          }
+        },
+        {
+          "client_id": "599219003922-7gssso1j42gt32sij9t6enaoorqv7rpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32Gp901SOvI0J4deVEqoMC-Oxgb05r_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599219003922-7gssso1j42gt32sij9t6enaoorqv7rpp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599219003922-kgf5jcusau3ehou6t3cuc7gbnhb4q5jm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.tutor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

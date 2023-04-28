@@ -1,0 +1,14 @@
+export const BaseUrl = 'https://www.mutamad.com/main/api/v1/';
+export const ImageBaseURL = 'https://mutamad.com/main/public/storage/user-profile-pictures/';
+export const DocumentBaseURL = 'https://mutamad.com/main/public/storage/documents/';
+export const whiteColor = '#fff';
+export const primaryColor = '#6A5ADF';
+export const primaryColorTwo = '#ABA2F1';
+export const secondaryColor = '#FEFEFE';
+export const secondary2Color = '#F9CF57';
+export const grayColor = '#f7f7f7';
+export const fontColor = '#1C1C1C';
+export const shadeGrayColor = '#999999';
+export const borderColor = '#DDDDDD';
+export const blueColor = '#1DA1F2';
+export const redColor = '#F81212'
